@@ -25,4 +25,4 @@ We are looking for anyone interested in analysing large data sets using python, 
 Please look at the [CONTRIBUTING.md]() on details on how you can contribute. 
 
 ## About Us and Contacts
-[Sarah](https://github.com/MsKiden) is a technologist and researcher. She is a part-time tutor at the Virtual University of Uganda, teaching Hardware and Networking for Development, as part of the post graduate courses on Information and Communication Technology for Development (ICT4D). 
+[Sarah](https://github.com/MsKiden) is a technologist and researcher. 
