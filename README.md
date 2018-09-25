@@ -25,4 +25,4 @@ We are looking for anyone interested in analysing large data sets using python, 
 Please look at the [CONTRIBUTING.md]() on details on how you can contribute. 
 
 ## About Us and Contacts
-[Sarah](https://github.com/MsKiden) is a technologist and researcher. 
+[Sarah](https://github.com/MsKiden) is a technologist and researcher. She can be reached through s(dot)kiden(at)(at)virtualuni(dot)ac(dot)ug.
